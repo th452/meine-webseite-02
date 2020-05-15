@@ -1,0 +1,13 @@
+body {
+  background: lightgrey;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+footer {
+  background: darkgrey;
+  color: white;
+}
+
+header {
+  background: lightcoral;
+}
